@@ -1,0 +1,265 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color:#19293D;
+}
+
+h2 {
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+
+h3 {
+    font-size: 20px
+}
+
+h4{
+    font-size: 16px;
+    line-height: 22px;
+    color: #80858F;
+}
+
+.promo {
+    padding-top: 40px
+}
+
+.promo h4 {
+    color:#19293D!important;
+    padding-top: 20px
+}
+p {
+    font-size: 12px;
+    color: #80858F;
+}
+
+p span, h4 span{
+    color: #19293D;
+}
+
+ul.right li a {
+    font-weight: 400;
+    font-size: 12px;
+    color: #19293D;
+}
+
+ul.right li:hover {
+    background-color: transparent;
+}
+
+ul.right li a:hover {
+    color: #89CC3D;
+}
+
+nav {
+    background: transparent;
+    box-shadow: none;
+}
+
+.section-logo {
+    padding: 250px
+}
+
+.bg-dark {
+    background-color: #19293D;
+}
+
+.bg-gray {
+    background-color: #F7F8FA;
+}
+
+#section-services h2, #section-partners h2, #section-contact h2{
+    color: #ffffff;
+}
+
+#section-contact h4 {
+    color: #ffffff;
+}
+
+
+section:not(#section-logo){
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.hr-decorate-green {
+    width: 100%;
+    height: 2px;
+    background-color: #89CC3D;
+}
+
+.hr-decorate-white {
+    width: 100%;
+    height: 2px;
+    background-color: #FFFFFF;
+}
+
+#point {
+    margin-top: 40px;
+    width: 100%;
+    padding: 5px;
+    background-color: #89CC3D;
+    border-radius: 10px;
+}
+
+#point h3, #point h4 {
+    color: #ffffff;
+}
+
+.project {
+    height: 220px;
+    border-radius: 10px;
+    padding: 0px!important;
+    margin-top: 40px;
+}
+
+.project a {
+    font-size: 14px;
+    color: #ffffff;
+    border-radius: 10px;
+    border: 2px solid #ffffff;
+    padding: 10px 20px;
+}
+
+.project a:hover{
+    background-color: rgba(255,255,255,.5);
+}
+
+.project h3 {
+    font-weight: 700!important;
+    color: #ffffff;
+    padding: 0px 50px;
+    line-height: 27px;
+}
+
+#project-1 {
+    background-image: url(../images/proyectos/proyecto-1.jpg);
+}
+
+#project-2 {
+    background-image: url(../images/proyectos/proyecto-2.jpg);
+}
+
+#project-3 {
+    background-image: url(../images/proyectos/proyecto-3.jpg);
+}
+
+#project-4 {
+    background-image: url(../images/proyectos/proyecto-4.jpg);
+}
+
+#project-5 {
+    background-image: url(../images/proyectos/proyecto-5.jpg);
+}
+
+#project-6 {
+    background-image: url(../images/proyectos/proyecto-6.jpg);
+}
+
+#project-7 {
+    background-image: url(../images/proyectos/proyecto-7.jpg);
+}
+
+#project-8 {
+    background-image: url(../images/proyectos/proyecto-8.jpg);
+}
+
+.height-100 {
+    height: 100%
+}
+
+.overlay {
+    border-radius: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,.2);
+}
+
+#partners {
+    margin-top: 50px;
+}
+
+#section-contact {
+    background: url(../images/bg-contacto.png) center;
+}
+
+input {
+    width: calc(100% - 40px)!important;
+    background: #ffffff!important;
+    border-bottom: 0px!important;
+    border-radius: 10px!important;
+    padding-left: 20px!important;
+    padding-right: 20px!important;
+}
+
+textarea {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 200px;
+    resize: none;
+}
+
+textarea:focus {
+    outline: none;
+}
+
+button {
+    color: #ffffff;
+    background-color: transparent;
+    width: 100%;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #ffffff;
+}
+
+.row-button {
+    margin-bottom: 0px;
+}
+
+.logo-footer {
+    height: 45px;
+}
+
+.footer-logos {
+    padding-top: 40px;
+}
+
+.footer-logos p {
+    padding-top: 60px;
+}
+
+#section-services h3 {
+    font-weight: 700!important;
+    color: #ffffff;
+}
+
+.row-services {
+    padding-top: 60px;
+}
+
+.services-1 {
+    margin-top: 10px!important;
+}
+
+.row-services p {
+    color: #ffffff;
+}
+
+.row-googleadwords{
+    margin-top: 53px;
+}
+
+.row-alojamientoweb{
+    margin-top: 50px;
+}
+
+.row-posicionamiento {
+    margin-top: 120px;
+}
+
+.row-emailmarketing {
+    margin-top: 70px;
+}

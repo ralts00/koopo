@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>Windows</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Landing" sketch:type="MSArtboardGroup" transform="translate(-250.000000, -4191.000000)" fill="#FFFFFF">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(0.000000, 1668.000000)">
+                <g id="Rectangle-62-+-Group-+-Servicios-+-Rectangle-5-Copy" transform="translate(0.000000, 2331.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group" transform="translate(250.000000, 190.000000)">
+                        <path d="M12.2878375,17.8548952 L12.2878375,29.592347 L0.000695991408,27.9037955 L0,17.8554416 L12.2878375,17.8554416 L12.2878375,17.8548952 L12.2878375,17.8548952 Z M13.6471906,4.27720424 L29.9991539,2.027 L29.9991539,16.3355732 L13.6471906,16.3355732 L13.6471906,4.27720424 L13.6471906,4.27720424 Z M29.9991675,17.8548952 L29.9991675,32.027 L13.6471906,29.779009 L13.6471906,17.8548952 L29.9991675,17.8548952 L29.9991675,17.8548952 Z" id="Windows"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
