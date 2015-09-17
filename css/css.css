@@ -271,7 +271,7 @@ button {
 }
 
 .review div{
-    width: 362px;
+    width: 100%;
 }
 
 .review span {
@@ -288,8 +288,8 @@ button {
 }
 
 .comment {
-    background: url(../images/reviews/comillas.svg) center;
-    width: 100%
+/*    background: url(../images/reviews/comillas.svg) center;
+*/    width: 100%
     
 }
 
@@ -297,4 +297,20 @@ button {
     text-align : justify;
     padding-right: 30px!important;
     padding-left: 30px!important;
+}
+
+/*#section-review {
+    background-color: #000000!important;
+}*/
+
+.slick-arrow:before {
+    color: #A8AAB1;
+}
+
+.slick-dots li button:before {
+    font-size: 10px;
+}
+
+.slick-dots li button:before {
+    color: #80858F!important;
 }
