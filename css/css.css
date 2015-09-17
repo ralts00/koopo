@@ -263,3 +263,38 @@ button {
 .row-emailmarketing {
     margin-top: 70px;
 }
+
+
+.review{
+        width:100%;
+        text-align: center;
+}
+
+.review div{
+    width: 362px;
+}
+
+.review span {
+    color: #19293D;
+}
+
+.review img {
+    border-radius: 10px;
+    margin:20px auto;
+}
+.review h4 {
+    color: #89CC3D;
+    margin: 30px;
+}
+
+.comment {
+    background: url(../images/reviews/comillas.svg) center;
+    width: 100%
+    
+}
+
+.review p {
+    text-align : justify;
+    padding-right: 30px!important;
+    padding-left: 30px!important;
+}
